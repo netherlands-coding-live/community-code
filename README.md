@@ -4,7 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
-- your name here : [*link to your website*](http://netherlands-coding-live.github.io)
+- Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
 
 ## Contribution
 

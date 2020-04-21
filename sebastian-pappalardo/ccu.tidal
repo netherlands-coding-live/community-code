@@ -1,0 +1,29 @@
+xfadeIn 1 2 silence
+-- $every 4 (juxBy 0.75 (|*speed "[2.5 4.5]"))
+-- $every 3 (juxBy 0.25 (|*speed "[0.5 1.5]"))
+-- $slow"[1 2 1 3]"
+$slow 8
+$ s"cinematic_score/[8 4]"
+|*shape 0.2
+|*gain 0.4
+
+d2 silence
+$ slow 4
+$ s "[iso_bss_bs_af*[16 8]]"
+|+n (run(16))
+|*speed "[0.5 1 1.2 1]"
+|+ lpf 600
+|*shape 0.4
+|* speed "-0.2"
+|*gain 0.65
+
+xfadeIn 3 16 silence
+$slow "[2 1 4]"
+$s "[ee_ab_nm_s]"
+|+n (run(16))
+|*speed "[0.5 -1 0.4 1]"
+-- |+ cut 1
+|+legato 4
+|+ lpf 1200
+|*shape 0.4
+|*gain 0.6
