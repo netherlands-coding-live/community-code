@@ -5,6 +5,7 @@ A repository filled with code shared by the community during coding sessions and
 ## The Community
 
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
+- Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 
 ## Contribution
 
