@@ -1,0 +1,23 @@
+
+set tempo 118
+set scale minor_harmonic c
+
+ring pos sineFloat(200 1 0 0.5)
+
+new sample bowl_hi time(1/24) speed(0.5) gain(0) name(bwl)
+	set bwl fx(double) fx(reverb 0.9 16) shape(1 80)
+	set bwl offset(pos) pan(random)
+
+ring bssLine fill(0 20 3 20)
+
+new synth saw note(bssLine 0) shape() name(scp_lo)
+	set scp_lo fx(filter low 1/2 1900 100 0.4 0.5 0.1) wave2(saw 0.99832)
+	set scp_lo fx(double) fx(reverb 2 17) gain(0)
+
+set notes sine(50 11.2 0 24)
+set len sine(90 1 20 80)
+set notes clone(notes 0 0 3 5)
+
+new synth saw note(notes 2) shape(1 len) name(arp)
+	set arp time(1/24) gain(0.8) pan(random) fx(filter low 3 200 900 0.3)
+	set arp fx9delay 1/16 3/12 0.7)
