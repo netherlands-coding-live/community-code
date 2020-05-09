@@ -4,6 +4,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+
+- Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 
