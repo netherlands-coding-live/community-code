@@ -8,7 +8,7 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
-- Felipe Ignacio Noriega : [*@0felipeignaci0*](https://pandazooicide.com)
+- Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
 
 ## Contribution
 
