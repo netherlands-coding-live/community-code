@@ -1,6 +1,6 @@
 # Community Code
 
-A repository filled with code shared by the community during coding sessions and from-scratch challanges
+A repository filled with code shared by the community during coding sessions and from-scratch challenges
 
 ## The Community
 
