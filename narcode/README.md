@@ -8,9 +8,12 @@ before your boot supercollider.
 I use 3 global variabales `~bd, ~hh, ~sn` for samples of bassdrum, hihat and snare.
 You can make your own variables like this:
 
-`~bd = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };`
-`~hh = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };`
-`~sn = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };`
+`~bd = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };
+`
+`~hh = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };
+`
+`~sn = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };
+`
 
 and if you need a synth to play the samples, here:
 
@@ -20,4 +23,3 @@ and if you need a synth to play the samples, here:
 	snd = PlayBuf.ar(1, buf, BufRateScale.kr(buf)*rate, 1, BufFrames.kr(buf)*pos)*env;
 	Out.ar(out, snd*amp);
 }).add;`
-
