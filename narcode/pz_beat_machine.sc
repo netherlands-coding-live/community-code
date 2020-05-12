@@ -1,4 +1,4 @@
-//// PZ Beat machine 2020
+//// PZ Beat machine 2020 v0.1
 
 /*
 Class for custom functional beat machine
