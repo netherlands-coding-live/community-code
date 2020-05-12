@@ -1,12 +1,13 @@
 # Dependencies
 
-To run the code you will also need the Panda Zooicide beat classes.
+### To run the code you will also need the Panda Zooicide beat classes.
 
 Just Place the `pz_beat_machine.sc` file in your Supercollider extensions folder
 before your boot supercollider.
 
-I use 3 global variabales `~bd, ~hh, ~sn` for samples of bassdrum, hihat and snare.
-You can make your own variables like this:
+
+*I use 3 global variabales `~bd, ~hh, ~sn` for samples of bassdrum, hihat and snare.
+You can make your own variables like this:*
 
 `~bd = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };`
 
@@ -14,7 +15,7 @@ You can make your own variables like this:
 
 `~sn = { Synth(\sampleNarcode, [\buf, Buffer.read(s, "PATH_TO_YOUR_SAMPLE")]) };`
 
-and if you need a synth to play the samples, here:
+*And if you need a synth to play the samples, here:*
 
 `SynthDef(\sampleNarcode, {|out=0, at=0.01, rl=0.1, rate=1, pos=0, amp=1, buf|
 	var env = EnvGen.kr(Env.perc(at, rl), doneAction:2);
