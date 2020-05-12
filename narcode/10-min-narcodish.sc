@@ -1,5 +1,6 @@
 ~timestamp = "date '+%M'".unixCmdGetStdOut.asInteger
 
+~funcs = ();
 a = PZ_machine(s)
 a.ignite
 
