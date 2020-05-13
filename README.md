@@ -4,11 +4,17 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
-
-- Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
-- Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
-- Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
+- Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
+- Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
+- Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
+
+## Behind the Screens (Interviews)
+
+- [Felip Egnacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
+- [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
+- [Timo Hoogland](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-t-mo-c139e3de2a0)
+- [Sebastian Pappalardo](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-eerieear-5582b6775f8a)
 
 ## Contribution
 
