@@ -11,8 +11,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
-- [Felip Egnacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
-- [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
+- [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
+- [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
 - [Timo Hoogland](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-t-mo-c139e3de2a0)
 - [Sebastian Pappalardo](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-eerieear-5582b6775f8a)
 
