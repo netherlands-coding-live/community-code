@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Jonathan Reus : []()
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
@@ -11,6 +12,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
+- [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
 - [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
 - [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
 - [Timo Hoogland](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-t-mo-c139e3de2a0)
