@@ -1,0 +1,1 @@
+_Choreo-Graphic-Coding by [Joana Chicau](joanachicau.com/)_ ^ _ ^ see inside the [javascript file](choreo-code-in-10-minutes.js) ~ you can open the file with a text editor of choice; please read the comments, they carry important messages on how and where to play with the code. I hope you will enjoy it!
