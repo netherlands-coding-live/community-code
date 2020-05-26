@@ -4,7 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
-- Jonathan Reus : []()
+- Jonathan Reus : [@jc_reus](https://twitter.com/jc_reus)
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
