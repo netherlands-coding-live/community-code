@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- [Jo Kroese (Jobi)](https://jokroese.com)
 - Jonathan Reus : [@jc_reus](https://twitter.com/jc_reus)
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
