@@ -13,7 +13,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
-- [Jo Kroese]() coming soon...
+- [Jo Kroese](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
 - [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
 - [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
 - [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
