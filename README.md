@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Joana Chicau : [@BChicau](https://www.joanachicau.com/)
 - Jo Kroese : [Jobi](https://jokroese.com)
 - Jonathan Reus : [@jc_reus](https://twitter.com/jc_reus)
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
@@ -13,6 +14,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
+- [Joana Chicau]()
 - [Jo Kroese](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
 - [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
 - [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
