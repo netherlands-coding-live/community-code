@@ -11,6 +11,7 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
+- Giovanni Muzio : [*@kesson*](https://kesson.io)
 
 ## Behind the Screens (Interviews)
 
