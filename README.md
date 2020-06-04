@@ -14,7 +14,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
-- [Joana Chicau]()
+- [Joana Chicau](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
 - [Jo Kroese](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
 - [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
 - [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
