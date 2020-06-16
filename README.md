@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 - Giovanni Muzio : [*@kesson*](https://kesson.io)
 - Joana Chicau : [@BChicau](https://www.joanachicau.com/)
 - Jo Kroese : [Jobi](https://jokroese.com)
@@ -12,11 +13,11 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
-- Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 
 ## Behind the Screens (Interviews)
 
-- [Giovanni Muzio]()
+- [Saskia Freeke]() coming soon...
+- [Giovanni Muzio](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-kesson-a7f8e0a870e4)
 - [Joana Chicau](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
 - [Jo Kroese](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
 - [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
