@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Roald van Dillewijn : [*@roaldvdillewijn*](https://www.roaldvandillewijn.nl)
 - Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 - Giovanni Muzio : [*@kesson*](https://kesson.io)
 - Joana Chicau : [@BChicau](https://www.joanachicau.com/)
