@@ -1,0 +1,44 @@
+set tempo 100
+set scale lydian E
+
+ring notesOne sine(12)
+ring notesTwo clone(notesOne -3 -5 7 12)
+ring notesThree clone(notesOne -5 -7 5 9)
+
+ring beatOne hexBeat(fade)
+ring beatTwo hexBeat(cafe)
+ring beatThree hexBeat(dead)
+
+new synth saw note(notesOne) wave2(sine 0.5) env(5000 5000) time(4)
+new synth saw note(notesTwo 2) wave2(saw 0.9976) env(5000 5000) time(5 1/4)
+new synth saw note(notesThree 2.5) wave2(saw 0.995) env(5000 5000) time(3 1/2)
+
+new sample kick_909 beat(beatOne) time(1/4) name(f)
+new sample snare_909 beat(beatTwo) time(1/8) name(f)
+new sample hat_909 beat(beatOne) time(1/16) gain(0.8)
+
+set f fx(filter low 1500) gain(0.5)
+
+new emitter osc name(volante)
+new emitter osc name(particle)
+new emitter osc name(cathedral)
+new emitter osc name(tensor)
+new emitter osc name(mixer)
+new emitter osc name(ottobit)
+
+ring rndfreeze random(25 0 127)
+ring rndpart random(100 0 127)
+ring rndlfo random(50 0 127)
+set volante _bypass(127 change) time(4)
+// set cathedral _bypass(1 change) time(4)
+set particle _bypass(127 change) time(4)
+set particle dens(rndpart) time(1)
+set particle lforate(rndlfo) time(1)
+set particle freeze(rndfreeze) time(1/2)
+set mixer channel1(1 change) time(4)
+set tensor _bypass(127 change) time(4)
+
+set ottobit _bypass(127 change) time(4)
+set ottobit stutter(rndpart) time(1)
+set cathedral _bypass(0 change)
+set ottobit fade(filter 0 127 120000 once)
