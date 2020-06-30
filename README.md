@@ -4,7 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
-- Marije Baalman: [*@sensestage*](https://marijebaalman.eu)
+- Marije Baalman: [*@nescivi*](https://marijebaalman.eu) / [*@sensestage* on github](https://github.com/sensestage/)
 - Roald van Dillewijn : [*@roaldvdillewijn*](https://www.roaldvandillewijn.nl)
 - Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 - Giovanni Muzio : [*@kesson*](https://kesson.io)
