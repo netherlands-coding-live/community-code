@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Sabrina Verhage: [*@SabrinaVerhage*](http://www.sabrinaverhage.com/)
 - Rafaele Andrade: [*@rafaeleandrade*](https://www.rafaeleandrade.com/)
 - Marije Baalman: [*@nescivi*](https://marijebaalman.eu) / [*@sensestage* on github](https://github.com/sensestage/)
 - Roald van Dillewijn : [*@roaldvdillewijn*](https://www.roaldvandillewijn.nl)
@@ -19,6 +20,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
+- [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
 - [Rafaele Andrade](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-rafaele-andrade-6e622467750d)
 - [Marije Baalman](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-marije-baalman-559ca3f1696b)
 - [Roald van Dillewijn](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-roald-van-dillewijn-f42de690c86)
