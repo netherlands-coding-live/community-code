@@ -21,7 +21,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
-- [Carolien Teunisse]() (coming soon...)
+- [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)
 - [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
 - [Rafaele Andrade](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-rafaele-andrade-6e622467750d)
 - [Marije Baalman](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-marije-baalman-559ca3f1696b)
