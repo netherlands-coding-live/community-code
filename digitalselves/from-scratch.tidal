@@ -1,0 +1,50 @@
+setcps(155/120/2)
+
+-- choppy vocals
+d1
+  $ striate "< 2 4 8 12 24 32 1 2>"
+  $ sometimes (#acc "<-2 0.4>")
+  $ sound "tekken-annoucer/4"
+  #n (irand 8)
+
+
+-- drum pattern
+d2
+  $ every 8 ((#hpf "400 800 1200 800").loopAt 1)
+  $ stack [
+    sound "[k, bmkd:2](3,8,<0 1 4>)" #shape 0.45 #speed 0.8 #gain 1.1,
+    gain "1*8?" #sound "amencutup" #n (irand 16),
+    off 0.125 (+| n "0 1 2 5") $ struct "t(3,8)@2"
+    $  n "<0 1 4>" # sound "[jung5 jung6 jung7]/8" #speed 8 #unit "c" #gain 1.1,
+    stz 3 0.125 0.75  $ often (slow 4) $ sound "<sfe:2 krane:1>" #speed "<0.6 1>"
+    #gain 0.8,
+    gain "1 ~ [~ 1 ] ~" # sound "hatys" #n (irand 8),
+    sometimes (fast 2 ) $ sound "cosmic:1(7,8,<0 1>)" #gain 1.1 #speed 0.5
+  ]
+
+
+
+-- bass, melody etc
+do
+  let notePat = "{[a4 c5] [~ a4] [d5 ] [a4 e5] [~ a4] [f5] [e5 d5] ~ [e5 f5] [~ d5] [e5] [c5 d5] [~ c5] [d5] [c5 b4] ~}%4"
+      bassPat = "{a3 b3 <c4 f3> [<d4 e3> <e4 d4>]}%1"
+      highPat = "{e6 e6 [f6 f6] [~ e6] ~ ~ ~ ~ c6 c6 [d6 d6] [~ c6] ~ ~ ~ ~ }%4"
+      pitch = 0
+  all $ id
+  -- all $ (#lpf "800 1200 2400 6000 4000")
+  d3
+    $ note (bassPat) # s "[ser2:1, ser2:0]"
+    #end 0.8 #shape 0.45 |+| note "12"
+  d3
+    -- $ rarely (palindrome)
+    $ often (off 0.125 (|+ note "12" ))
+    $ note ( notePat )
+    # s "bmsy:2"
+    #sus 0.4 #rel 0.4 #speed "[1,1.02]"
+    |+| note (pitch)
+      #lpf 2800
+  d5
+   -- $ rarely (palindrome)
+   $ whenmod  24 20 (# speed "[1,1.02]")
+    $ note (highPat) # s "ser:2"
+    |+| note (pitch-24)
