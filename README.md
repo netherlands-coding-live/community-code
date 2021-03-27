@@ -1,9 +1,10 @@
-# Community Code
+# 💻 Community Code
 
-A repository filled with code shared by the community during coding sessions and from-scratch challenges
+A repository filled with code shared by the community during coding sessions and from-scratch challenges as part of the *Behind the Screens* series.
 
-## The Community
+## 👋 The Community
 
+- Riccardo Ancona: [*@*](https://www.instagram.com/olbos_/)
 - Carolien Teunisse: [*@lucidlien*](https://www.deframe.nl/about/carolien-teunisse/)
 - Sabrina Verhage: [*@SabrinaVerhage*](http://www.sabrinaverhage.com/)
 - Rafaele Andrade: [*@rafaeleandrade*](https://www.rafaeleandrade.com/)
@@ -19,8 +20,9 @@ A repository filled with code shared by the community during coding sessions and
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
 
-## Behind the Screens (Interviews)
+## 💬 Behind the Screens (Interviews)
 
+- [Riccardo Ancona](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
 - [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)
 - [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
 - [Rafaele Andrade](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-rafaele-andrade-6e622467750d)
@@ -36,7 +38,12 @@ A repository filled with code shared by the community during coding sessions and
 - [Timo Hoogland](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-t-mo-c139e3de2a0)
 - [Sebastian Pappalardo](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-eerieear-5582b6775f8a)
 
-## Contribution
+## 📟 Behind the Screens (Videos)
+
+- [Behind the Screens Season 1](https://www.youtube.com/playlist?list=PLPkgr1U1fB_6yQ5tBff927auOUnu57Uhf)
+- [Behind the Screens Seaons 2](https://www.youtube.com/playlist?list=PLPkgr1U1fB_5fofmP6osJM0nvxUvRG3_N)
+
+## 📝 Contribution
 
 1. Fork this repository (click `fork` in the top right)
 2. Clone the repository to your computer `git clone https://github.com/<this-is-you>/<forked-repo>.git`
@@ -48,7 +55,7 @@ A repository filled with code shared by the community during coding sessions and
 
 [All steps with examples and images](https://github.com/firstcontributions/first-contributions/blob/master/README.md)
 
-## Code of Conduct
+## 📄 Code of Conduct
 
 **Our Pledge**
 
