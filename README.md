@@ -4,6 +4,10 @@ A repository filled with code shared by the community during coding sessions and
 
 ## The Community
 
+- Carolien Teunisse: [*@lucidlien*](https://www.deframe.nl/about/carolien-teunisse/)
+- Sabrina Verhage: [*@SabrinaVerhage*](http://www.sabrinaverhage.com/)
+- Rafaele Andrade: [*@rafaeleandrade*](https://www.rafaeleandrade.com/)
+- Marije Baalman: [*@nescivi*](https://marijebaalman.eu) / [*@sensestage* on github](https://github.com/sensestage/)
 - Roald van Dillewijn : [*@roaldvdillewijn*](https://www.roaldvandillewijn.nl)
 - Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 - Giovanni Muzio : [*@kesson*](https://kesson.io)
@@ -17,6 +21,10 @@ A repository filled with code shared by the community during coding sessions and
 
 ## Behind the Screens (Interviews)
 
+- [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)
+- [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
+- [Rafaele Andrade](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-rafaele-andrade-6e622467750d)
+- [Marije Baalman](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-marije-baalman-559ca3f1696b)
 - [Roald van Dillewijn](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-roald-van-dillewijn-f42de690c86)
 - [Saskia Freeke](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sasj-cf739281cb9f)
 - [Giovanni Muzio](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-kesson-a7f8e0a870e4)
