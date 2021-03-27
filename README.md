@@ -4,7 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
-- Riccardo Ancona: [*@*](https://www.instagram.com/olbos_/)
+- Riccardo Ancona: [*@olbos_*](https://www.instagram.com/olbos_/)
 - Carolien Teunisse: [*@lucidlien*](https://www.deframe.nl/about/carolien-teunisse/)
 - Sabrina Verhage: [*@SabrinaVerhage*](http://www.sabrinaverhage.com/)
 - Rafaele Andrade: [*@rafaeleandrade*](https://www.rafaeleandrade.com/)
