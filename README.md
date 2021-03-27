@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
+- d͓̽i͓̽g͓̽i͓̽t͓̽a͓̽l͓̽ ͓̽s͓̽e͓̽l͓̽v͓̽e͓̽s͓̽ : [*@dgtlselves*](https://www.instagram.com/dgtlselves/)
 - Riccardo Ancona: [*@olbos_*](https://www.instagram.com/olbos_/)
 - Carolien Teunisse: [*@lucidlien*](https://www.deframe.nl/about/carolien-teunisse/)
 - Sabrina Verhage: [*@SabrinaVerhage*](http://www.sabrinaverhage.com/)
@@ -19,10 +20,10 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
-- d͓̽i͓̽g͓̽i͓̽t͓̽a͓̽l͓̽ ͓̽s͓̽e͓̽l͓̽v͓̽e͓̽s͓̽ : [*@dgtlselves*] (https://www.instagram.com/dgtlselves/)
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Digital Selves]() coming soon...
 - [Riccardo Ancona](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
 - [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)
 - [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
