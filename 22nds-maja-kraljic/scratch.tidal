@@ -1,0 +1,34 @@
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- Hello from sunny Slovenia. 
+-- We just started our third lockdown ;)
+
+-- Playing live: 22nds / Maja Kraljic
+-- Instructions: Close your eyes and listen
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+setcps(130/60/4)
+
+xfadeIn 1 8 $ loopAt 1 $ s "sonar" # orbit 1 # gain 1.4 # room 0.4 #delay 0.1
+xfadeIn 2 8 $ loopAt 2 $ s "sonar" # orbit 2 # gain 1.4 # room 1
+
+xfadeIn 1 6 $ silence
+xfadeIn 2 6 $ silence
+
+xfadeIn 3 6 $ loopAt 32 $ chop 32 $ s "air" # delay 0.4 # room 0.2
+xfadeIn 3 6 $ loopAt 16 $ chop 16 $ s "air" # delay 0.4 # room 0.2
+xfadeIn 3 6 $ loopAt 2 $ chop 2 $ s "air" # delay 0.4 # room 1
+
+setcps(130/60/4)
+setcps(20/60/4)
+
+xfadeIn 3 6 $ silence
+
+xfadeIn 4 12 $ loopAt 24 $ chop 24 $ s "air" # delay 0.8 # room 0.3 # hpf 500
+
+xfadeIn 4 6 $ loopAt 8 $ chop 8 $ s "drop" # room 0.6
+
+xfadeIn 4 16 $ silence 
+
+xfadeIn 6 4 $ loopAt 3 $ s "sonar" # delay 1 # room 0.9
+
+xfadeIn 6 16 $ silence 
