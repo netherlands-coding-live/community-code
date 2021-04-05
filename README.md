@@ -20,6 +20,7 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
+- Maja Kraljic: [22nds](https://www.22nds.com) / [22nds on GitHub](https://github.com/22nds)
 
 ## 💬 Behind the Screens (Interviews)
 
