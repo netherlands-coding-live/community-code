@@ -4,7 +4,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
-- Maja Kraljic: [22nds](https://www.22nds.com) / [22nds on GitHub](https://github.com/22nds)
+- Alexandra Cárdenas: [*@tiemposdelruido*](https://www.instagram.com/tiemposdelruido/)
+- Maja Kraljic: [*22nds*](https://www.22nds.com) / [*22nds* on GitHub](https://github.com/22nds)
 - d͓̽i͓̽g͓̽i͓̽t͓̽a͓̽l͓̽ ͓̽s͓̽e͓̽l͓̽v͓̽e͓̽s͓̽ : [*@dgtlselves*](https://www.instagram.com/dgtlselves/)
 - Riccardo Ancona: [*@olbos_*](https://www.instagram.com/olbos_/)
 - Carolien Teunisse: [*@lucidlien*](https://www.deframe.nl/about/carolien-teunisse/)
@@ -24,7 +25,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
-- [Maja Kraljic]() coming soon...
+- [Alexandra Cárdenas]() coming soon...
+- [Maja Kraljic](https://medium.com/behind-the-screens-challenge/behind-the-screens-maja-kralji%C4%8D-74ce12b14fbf)
 - [Digital Selves](https://medium.com/behind-the-screens-challenge/behind-the-screens-digital-selves-8d89460baa61)
 - [Riccardo Ancona](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
 - [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)

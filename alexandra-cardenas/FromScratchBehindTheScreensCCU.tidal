@@ -1,0 +1,15 @@
+
+setcps 1.5
+
+d1 $ stack [ whenmod 4 2 (const silence) $ sometimes (juxBy 0.3 (iter 4)) $ sometimes (density 0.5) $ sound "scratch*2"
+	# n (irand 30)
+	# speed (choose [-1])
+	#  pan rand
+	#  vowel "u o i a"
+	# gain 1.2,
+  whenmod 5 1 (const silence) $ sound "dmsynth"
+	# speed (choose [-1])
+	# sustain (choose [1])
+	# pan (rand)]
+
+hush
