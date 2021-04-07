@@ -137,7 +137,11 @@ Pbindef(\p2, *[instrument:\ping, bufnum:c,
 Pbindef(\p3, *[instrument:\wab, bufnum:c,
 	sustain: 1,
 	octave: [2,3],
-	dur: 4 
+	dur: 4,
+	copydata: Pfunc({
+		b.copyData(c, 0, b.numFrames.rand);
+		c.normalize;
+	})
 ]).play
 )
 
