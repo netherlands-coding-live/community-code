@@ -22,6 +22,7 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
+- Luka Prinčic : [lukaprincic.si](https://lukaprincic.si) / [@luka@sonomu.club](https://sonomu.club/@luka)
 
 ## 💬 Behind the Screens (Interviews)
 
