@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
+- Luka Prinčic : [lukaprincic.si](https://lukaprincic.si) / [@luka@sonomu.club](https://sonomu.club/@luka)
 - Alexandra Cárdenas: [*@tiemposdelruido*](https://www.instagram.com/tiemposdelruido/)
 - Maja Kraljic: [*22nds*](https://www.22nds.com) / [*22nds* on GitHub](https://github.com/22nds)
 - d͓̽i͓̽g͓̽i͓̽t͓̽a͓̽l͓̽ ͓̽s͓̽e͓̽l͓̽v͓̽e͓̽s͓̽ : [*@dgtlselves*](https://www.instagram.com/dgtlselves/)
@@ -22,10 +23,10 @@ A repository filled with code shared by the community during coding sessions and
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
-- Luka Prinčic : [lukaprincic.si](https://lukaprincic.si) / [@luka@sonomu.club](https://sonomu.club/@luka)
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Luka Prinčic]() coming soon...
 - [Alexandra Cárdenas]() coming soon...
 - [Maja Kraljic](https://medium.com/behind-the-screens-challenge/behind-the-screens-maja-kralji%C4%8D-74ce12b14fbf)
 - [Digital Selves](https://medium.com/behind-the-screens-challenge/behind-the-screens-digital-selves-8d89460baa61)
