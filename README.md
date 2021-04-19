@@ -18,7 +18,7 @@ A repository filled with code shared by the community during coding sessions and
 - Saskia Freeke : [*@sasj_nl*](https://www.instagram.com/sasj_nl/)
 - Giovanni Muzio : [*@kesson*](https://kesson.io)
 - Joana Chicau : [@BChicau](https://www.joanachicau.com/)
-- Jo Kroese : [Jobi](https://jokroese.com)
+- Jo Kroese : [*@jobi*](https://jokroese.com)
 - Jonathan Reus : [@jc_reus](https://twitter.com/jc_reus)
 - Felipe Ignacio Noriega : [*@0felipeignaci0*](https://twitter.com/0felipeignaci0)
 - Raphael Sousa Santos : [*@sonologico*](https://sonologi.co)
