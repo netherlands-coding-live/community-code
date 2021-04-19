@@ -4,8 +4,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
-- Patrick Borgeat : [*@cappelnord](https://twitter.com/cappelnord)
-- Luka Prinčic : [lukaprincic.si](https://lukaprincic.si) / [@luka@sonomu.club](https://sonomu.club/@luka)
+- Patrick Borgeat : [*@cappelnord*](https://twitter.com/cappelnord)
+- Luka Prinčic : [*lukaprincic.si*](https://lukaprincic.si) / [*@luka@sonomu.club*](https://sonomu.club/@luka)
 - Alexandra Cárdenas: [*@tiemposdelruido*](https://www.instagram.com/tiemposdelruido/)
 - Maja Kraljic: [*22nds*](https://www.22nds.com) / [*22nds* on GitHub](https://github.com/22nds)
 - d͓̽i͓̽g͓̽i͓̽t͓̽a͓̽l͓̽ ͓̽s͓̽e͓̽l͓̽v͓̽e͓̽s͓̽ : [*@dgtlselves*](https://www.instagram.com/dgtlselves/)
