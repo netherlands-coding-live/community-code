@@ -27,8 +27,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
-- [Luka Prinčic]() coming soon...
-- [Alexandra Cárdenas]() coming soon...
+- [Luka Prinčic](https://medium.com/behind-the-screens-challenge/behind-the-screens-luka-prin%C4%8Di%C4%8D-ef748e9096d4)
+- [Alexandra Cárdenas](https://medium.com/behind-the-screens-challenge/behind-the-screens-alexandra-c%C3%A1rdenas-faef92150f7f)
 - [Maja Kraljic](https://medium.com/behind-the-screens-challenge/behind-the-screens-maja-kralji%C4%8D-74ce12b14fbf)
 - [Digital Selves](https://medium.com/behind-the-screens-challenge/behind-the-screens-digital-selves-8d89460baa61)
 - [Riccardo Ancona](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
