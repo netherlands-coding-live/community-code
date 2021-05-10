@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
+- Eloi Isern : [*@*]()
 - Patrick Borgeat : [*@cappelnord*](https://twitter.com/cappelnord)
 - Luka Prinčic : [*lukaprincic.si*](https://lukaprincic.si) / [*@luka@sonomu.club*](https://sonomu.club/@luka)
 - Alexandra Cárdenas: [*@tiemposdelruido*](https://www.instagram.com/tiemposdelruido/)
@@ -27,6 +28,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Patrick Borgeat](https://medium.com/behind-the-screens-challenge/behind-the-screens-patrick-borgeat-2df8e86751e8)
 - [Luka Prinčic](https://medium.com/behind-the-screens-challenge/behind-the-screens-luka-prin%C4%8Di%C4%8D-ef748e9096d4)
 - [Alexandra Cárdenas](https://medium.com/behind-the-screens-challenge/behind-the-screens-alexandra-c%C3%A1rdenas-faef92150f7f)
 - [Maja Kraljic](https://medium.com/behind-the-screens-challenge/behind-the-screens-maja-kralji%C4%8D-74ce12b14fbf)
