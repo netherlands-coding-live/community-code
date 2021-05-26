@@ -29,6 +29,8 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Francesco Corvi (Nesso)](https://medium.com/behind-the-screens-challenge/behind-the-screens-nesso-7b68cb70d594)
+- [Alfonsofonso](https://medium.com/behind-the-screens-challenge/behind-the-screens-alfonsofonso-d972b786493)
 - [Patrick Borgeat](https://medium.com/behind-the-screens-challenge/behind-the-screens-patrick-borgeat-2df8e86751e8)
 - [Luka Prinčic](https://medium.com/behind-the-screens-challenge/behind-the-screens-luka-prin%C4%8Di%C4%8D-ef748e9096d4)
 - [Alexandra Cárdenas](https://medium.com/behind-the-screens-challenge/behind-the-screens-alexandra-c%C3%A1rdenas-faef92150f7f)
