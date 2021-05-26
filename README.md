@@ -4,6 +4,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
+- Jia Liu : [*@luiiuuuiiiii*](https://twitter.com/luiiuuuiiiii)
 - Eloi Isern : [*@eloielbonnoi*](https://twitter.com/eloielbonnoi)
 - Patrick Borgeat : [*@cappelnord*](https://twitter.com/cappelnord)
 - Luka Prinčic : [*lukaprincic.si*](https://lukaprincic.si) / [*@luka@sonomu.club*](https://sonomu.club/@luka)
