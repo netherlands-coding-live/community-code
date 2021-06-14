@@ -1,0 +1,20 @@
+linput = pI "linput"
+
+lname = pS "lname"
+
+
+d2 $ slow 8 $ s "looper" # n "<0 5 2 4 3 7 6 1>"
+
+d2 silence
+
+d5 $ striate 4 $ sound "loop*4" # n "<0 1 2 3 4 5 6 7>" # gain 1.4 # speed "[1,0.8]" # cut 1
+
+d1 $ loopAt "<8 4>" $ chop "[<1 2 8>,4]" $ sound "vkloop:1*4"  #cut 1
+
+d4 $ degradeBy 0.2 $ every 2 (fast 2) $ iter 4 $ sound "[bottle(<3 5 6>,8), ~ ~ bsperc:3 ~]" # cut 2
+
+d5 $ loopAt "[8,<4 16>]" $ chop 300 $ sound "zip"
+
+d5 silence
+
+hush
