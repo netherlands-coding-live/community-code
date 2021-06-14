@@ -4,7 +4,10 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 👋 The Community
 
+- Lucy Cheesman : [*@Heavy Lifting*](https://heavy-lifting.org/)
 - Jia Liu : [*@luiiuuuiiiii*](https://twitter.com/luiiuuuiiiii)
+- Francesco Corvi : [@nesso](https://www.instagram.com/nesso.xyz/)
+- Alfonsofonso : [*@alfonsofonso*](https://alfonsofonso.bandcamp.com/)
 - Eloi Isern : [*@eloielbonnoi*](https://twitter.com/eloielbonnoi)
 - Patrick Borgeat : [*@cappelnord*](https://twitter.com/cappelnord)
 - Luka Prinčic : [*lukaprincic.si*](https://lukaprincic.si) / [*@luka@sonomu.club*](https://sonomu.club/@luka)
@@ -29,28 +32,31 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
+- [Lucy Cheesman (Heavy Lifting)]() coming soon...
+- [Jia Liu](https://medium.com/behind-the-screens-challenge/behind-the-screens-jia-liu-44aa001b48cf)
 - [Francesco Corvi (Nesso)](https://medium.com/behind-the-screens-challenge/behind-the-screens-nesso-7b68cb70d594)
 - [Alfonsofonso](https://medium.com/behind-the-screens-challenge/behind-the-screens-alfonsofonso-d972b786493)
+- [Eloi Isern (Eloi el Bon Noi](https://medium.com/behind-the-screens-challenge/behind-the-screens-eloi-el-bon-noi-90a84019966)
 - [Patrick Borgeat](https://medium.com/behind-the-screens-challenge/behind-the-screens-patrick-borgeat-2df8e86751e8)
 - [Luka Prinčic](https://medium.com/behind-the-screens-challenge/behind-the-screens-luka-prin%C4%8Di%C4%8D-ef748e9096d4)
 - [Alexandra Cárdenas](https://medium.com/behind-the-screens-challenge/behind-the-screens-alexandra-c%C3%A1rdenas-faef92150f7f)
 - [Maja Kraljic](https://medium.com/behind-the-screens-challenge/behind-the-screens-maja-kralji%C4%8D-74ce12b14fbf)
-- [Digital Selves](https://medium.com/behind-the-screens-challenge/behind-the-screens-digital-selves-8d89460baa61)
-- [Riccardo Ancona](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
+- [Lizzy Wilson (Digital Selves)](https://medium.com/behind-the-screens-challenge/behind-the-screens-digital-selves-8d89460baa61)
+- [Riccardo Ancona (Olbos)](https://medium.com/behind-the-screens-challenge/behind-the-screens-olbos-2d30f8eae0be)
 - [Carolien Teunisse](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-carolien-teunisse-10c079edd10a)
 - [Sabrina Verhage](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sabrina-verhage-5548fcbb811b)
 - [Rafaele Andrade](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-rafaele-andrade-6e622467750d)
 - [Marije Baalman](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-marije-baalman-559ca3f1696b)
 - [Roald van Dillewijn](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-roald-van-dillewijn-f42de690c86)
 - [Saskia Freeke](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sasj-cf739281cb9f)
-- [Giovanni Muzio](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-kesson-a7f8e0a870e4)
+- [Giovanni Muzio (Kesson)](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-kesson-a7f8e0a870e4)
 - [Joana Chicau](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
-- [Jo Kroese](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
+- [Jo Kroese (Jobi)](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jobi-f899f73ee420)
 - [Jonathan Reus](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-jonathan-reus-f9126d4b5462)
 - [Felipe Ignacio Noriega](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-narcode-df6737fc6941)
-- [Raphael Sousa Santos](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
+- [Raphael Sousa Santos (Sonologico)](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-sonologico-13fc200fe26e)
 - [Timo Hoogland](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-t-mo-c139e3de2a0)
-- [Sebastian Pappalardo](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-eerieear-5582b6775f8a)
+- [Sebastian Pappalardo (Eerie_ear)](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-eerieear-5582b6775f8a)
 
 ## 📟 Behind the Screens (Videos)
 
