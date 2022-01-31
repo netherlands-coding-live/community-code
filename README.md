@@ -2,6 +2,11 @@
 
 A repository filled with code shared by the community during coding sessions and from-scratch challenges as part of the *Behind the Screens* series.
 
+## ⌛️ Coming soon...
+
+Behind the Screens Season 3 will continue [**here**](https://github.com/creativecodingutrecht/community-code)
+
+
 ## 👋 The Community
 
 - Lucy Cheesman : [*@Heavy Lifting*](https://heavy-lifting.org/)
@@ -32,7 +37,7 @@ A repository filled with code shared by the community during coding sessions and
 
 ## 💬 Behind the Screens (Interviews)
 
-- [Lucy Cheesman (Heavy Lifting)]() coming soon...
+- [Lucy Cheesman (Heavy Lifting)](https://medium.com/behind-the-screens-challenge/behind-the-screens-heavy-lifting-ddcbda2d374)
 - [Jia Liu](https://medium.com/behind-the-screens-challenge/behind-the-screens-jia-liu-44aa001b48cf)
 - [Francesco Corvi (Nesso)](https://medium.com/behind-the-screens-challenge/behind-the-screens-nesso-7b68cb70d594)
 - [Alfonsofonso](https://medium.com/behind-the-screens-challenge/behind-the-screens-alfonsofonso-d972b786493)
