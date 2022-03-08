@@ -35,6 +35,7 @@ Behind the Screens Season 3 will continue [**here**](https://github.com/creative
 - Timo Hoogland : [*@tmhglnd*](https://www.timohoogland.com)
 - Sebastian Pappalardo : [*@eerieear*](https://www.instagram.com/eerieear/)
 - Antonio Roberts : [*hellocatfood*](https://hellocatfood.com)
+- Devine Lu Linvega : [*@alicef*](https://wiki.xxiivv.com/)
 
 ## 💬 Behind the Screens (Interviews)
 
