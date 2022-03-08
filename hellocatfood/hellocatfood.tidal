@@ -1,0 +1,111 @@
+setcps(135/60/4)
+
+d1
+$ chunk 4 (fast 2)
+$ sound "bd bd bd bd"
+# shape 0.7
+# gain 0.9
+
+d2
+$ fast 4
+$ sound "~ hh*2"
+
+d3
+$ mask "<<t f> [f t] t f>"
+$ slow "2 1"
+$ jux ((rev) . (slow 2))
+$ stutWith 3 (1/4) ((fast 2) . (# gain 0.7) . (# speed "1 2"))
+$ sound "~ perc:2(5,8)"
+# pan (perlin)
+# gain 0.98
+
+d4
+$ sometimes ((ply "<8 4>") . (# gain 0.8))
+$ off 0.25 ((|+ note "12 7") . (# gain 0.8) . (slow 2))
+$ slow "<2 1 [2 <1 0.125 1>]> 1"
+$ whenmod 8 4 ((|+ note "7") . (fast "[1 [8 2]] 1"))
+$ stut 3 0.25 0.75
+$ chunk 4 ((fast 2) . (|+ note "7"))
+$ note "c4 c d*2 c"
+# sound "gtr"
+# legato (fast 12 $ range 0.1 2.4 $ perlin)
+# gain 0.97
+
+d4
+$ sometimes ((ply "2 8") . (fast 4) . (# pan 0.6))
+$ fast "<2 1 [2 1]> <1 2>"
+$ whenmod 8 4 ((|+ note "7") . (fast "1 2 1"))
+$ stut 3 0.25 0.35
+$ chunk 4 ((fast "4 2") .(|+ note "12 7"))
+$ note (slow "2 4" $ "[d <e d*<1 4>>] [c [c e]] [e <d [c d]>] <d c f>")
+# sound "gtr"
+# legato (fast 3 $ range 0.5 2.4 $ sine)
+# gain 0.97
+
+d5
+$ juxBy (fast (range 1 8.3 $ sine) $ sine) ((hurry 2) . (# gain "0.6") . (# vowel "a e"))
+$ superimpose ((# gain 0.8) . (1.25 ~>) . (|+ note 12) . (# speed "<-1 -2>") . (fast "<2 [1 2 [<8 4> 1 1] 1] [4 2]>" ) . (stut 3 0.25 0.25) . (# pan (fast 9.2 $ perlin) ))
+$ whenmod 8 4 (|+ note "7")
+$ note "~ c d ~"
+# sound "bass1"
+# shape 0.4
+|+ note 12
+# legato 1
+
+d6
+$ chunk 4 (|+ note 12)
+$ whenmod 8 4 (|+ note "7")
+$ every 3 (fast 2)
+$ note "c/1.2 ~ d/1.8 ~"
+# sound "ade"
+# n (choose [0,1])
+# gain (slow 1 $ range 0.3 0.85 $ sine)
+# pan (slow 5 $ range 0.2 0.75 $ sine)
+# gate 2
+
+d6
+$ slow 4
+$ note (arp "<up down pinkyup>" "c'maj'<3 3 3 7>")
+# sound "ade:2"
+# size 0.3
+# speed (choose [1, 0.5, 0.25])
+
+
+d4
+-- $ sometimesBy "<0.2 0.9 0.2 0.1 0.8>" (# sound "gtr:1")
+$ whenmod 16 8 ((|+ note "-5") . (chunk 2 (|+ note "12 24")) . (fast "2 [4 2]"))
+-- $ stut 3 0.65 0.73
+$ note "d e"
+# sound "[gtr:0]"
+-- # gain 0.7
+-- # size 0.9
+-- # room 0.9
+
+do
+  d5
+    $ juxBy (fast 2 $ sine) ((hurry 2) . (# gain "0.7") . (# vowel "a e"))
+    $ whenmod 16 8 (|+ note "[[~ 12] -12] 7")
+    $ superimpose ((1.25 ~>) . (|+ note 12) . (# speed "<-1 -2>"))
+    $ sound "bass1*4"
+    # gain (slow 3 $ range 0 1 saw)
+    # note "d d d e"
+    # shape 0.4
+    # legato 1
+  d1 silence
+
+do
+  d2
+    $ stack [
+    (0.5 ~>) $ stut 4 0.25 0.25 $ sound "kick:4(5,8)" # lpf 900,
+    chunk 4 (fast 2) $ sound "[amencutup*<[4 8 2 4 16] 8 16>, drum*8]" # n (irand 32) # shape 0.2 # pan (fast 24 $ perlin),
+    slow "2 1" $ sometimesBy (sine) (stutWith 4 (1/16) (# accelerate 2)) $ sound "~ ~ cr [~ cr]" # gain 0.75
+    ]
+  d3 silence
+
+d5 silence
+
+d6 silence
+
+d2 silence
+
+d4 silence
