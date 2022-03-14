@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>cascade BTS</title>
+    <link rel="shortcut icon" href="website/img/favicon.svg">
+    <link rel="stylesheet" href="css/cascade.css">
+    <style media="screen">
+    #c{
+      background: gray;
+      height: 100vh;
+      overflow: hidden;
+      cursor: url(cur.svg) 3 3, auto;
+      transition: all 20s ease;
+      font-family: rumeur;
+    }
+    #c>.cas{position:absolute;}
+    .updown{animation: updown calc(var(--interval) * 20s) infinite;}
+    .rotate{animation: rotate calc(var(--interval) * 18s) linear infinite;}
+    .down{animation: down calc(var(--interval) * 4s) ease-out infinite;}
+    .shy{animation: shy calc(var(--interval) * 14s) ease infinite alternate;}
+    .shift{animation: shift calc(var(--interval) * 14s) steps(3) infinite alternate;}
+    .fauxrand{animation: fauxrand 20s ease-in-out infinite alternate; background:var(--15);}
+    .scan .cas{overflow:visible!important;}
+    .scan .cas:hover{overflow:hidden!important;}
+    .message-box{font-size: 25vh; line-height: 1.1em; width:100%;}
+
+    @keyframes updown{
+      0%  {top:5vw;  }
+      30% {top:20vw; }
+      50% {top:50vw; }
+      100%{top:5vw;  }
+    }
+    @keyframes rotate {
+      0%  {transform: rotate(0deg)}
+      100%{transform: rotate(360deg)}
+    }
+    @keyframes down {
+      0%  {transform:translate(0,0);}
+      100%{transform:translate(0,200px);}
+    }
+    @keyframes shy {
+      0%  {transform:translate(0,-5vh);}
+      100%{transform:translate(0,10vh);}
+    }
+    @keyframes fauxrand {
+      0%   {transform:translate(0vh, 0vw);}
+      20%  {transform:translate(30vh, 9vw);}
+      40%  {transform:translate(1vh, -20vw);}
+      60%  {transform:translate(-10vh, -28vw);}
+      80%  {transform:translate(25vh, 3vw);}
+      100% {transform:translate(-39vh, 20vw);}
+    }
+    @keyframes shift {
+      0%  {transform: translatey(0)}
+      50%  {transform: translatey(35vw)}
+      100%{transform: translatey(0)}
+    }
+    </style>
+  </head>
+  <body>
+  </body>
+  <script src="js/Tone.js"></script>
+  <script src="js/instruments.js" charset="utf-8"></script>
+  <script src="js/cascade.js" charset="utf-8"></script>
+  <script src="js/live-shortcut.js" charset="utf-8"></script>
+  <script src="js/interface.js" charset="utf-8"></script>
+  <script>
+    let c = new Cascade('body',{
+      defaultStyle:'width:40vw; height:20vw; border-radius:1px; top:20vh; background:black;'
+    })
+    let ap
+    function autoPaint(number=4, time=1){
+      ap = setInterval(() => {
+        let paintedEls = paint(number)
+        let apsi = setTimeout(() => {
+          paintedEls.forEach(el => {
+            el.remove()
+          });
+        }, time * 990);
+      }, time * 1000);
+    }
+    function stopAutoPaint(delay=15){
+      console.info(`Stopping in ${delay}s`)
+      setTimeout(() => {
+        clearInterval(ap)
+      }, delay * 1000);
+    }
+    let clrs = ["black", "tan", "blue", "cyan", "gold", "lime", "magenta", "peru", "pink", "red", 'teal', 'khaki', 'olive', 'purple']
+    let bpv = ["top", "bottom", ]
+    let bph = ["right", "left"]
+    function paint(number=4){
+      let paintedEls = []
+      for (var i = 0; i < number; i++) {
+        let rw, rh
+        function genRatio(){
+          rw = Math.floor(Math.random() * 8 + 1)*5
+          rh = Math.floor(Math.random() * 8 + 1)*5
+          // if (rw == rh) {
+          //   genRatio()
+          // }
+        }
+        genRatio()
+        let rc = clrs[Math.floor(Math.random() * clrs.length)]
+        let bp1 = bpv[Math.floor(Math.random() * bpv.length)]
+        let bp2 = bph[Math.floor(Math.random() * bph.length)]
+        let rt = Math.floor(Math.random() * 30 + 10)
+        let rl = Math.floor(Math.random() * 90 )
+        let rbr = Math.floor(Math.random() * 20 )
+        add(`
+        width:${rw}vh;
+        height:${rh}vh;
+        border-${bp1}-${bp2}-radius:${rbr}%;
+        top:${rt}vh;
+        left:${rl}vw;
+        background:${rc};
+        `)
+      }
+      c.on('add', function(e) {
+        paintedEls.push(e.detail.newNode)
+      })
+      return paintedEls
+    }
+
+    function helpers (){
+      console.log(`
+add('width:40px; height:70px; background:tan; top:30vh;'),
+
+mod('background:blue; width:50px; height:70px; left:5px;',0),
+
+add('background:green; top:3vh; width:80vw; height:20vh; '),
+
+add('background:green; top:80vh; width:80px; height:10vh; left:40vw; border-top:1px solid yellow;'),
+      
+add('background:white; width:80vh; top:40vh; height:30vh; border-radius:80px;'),
+
+rawStyle('body{background:lightgray;}')
+
+---
+
+add('background:white; width:80vw; height:20vw; display:flex; justify-content:space-between; align-items:center;')
+
+add('background:tan; width:20px; height:20px;', 'c-0', 4)
+
+mod('transform:rotate(-20deg);',)
+
+---
+
+shy, rotate, down, fauxrand
+
+---
+
+add('background:red url(../website/img/logo.svg); background-size:100% 100%; width:100px; height:100px;')
+
+---
+
+autoPaint(5, .5), rawStyle('body{background:#eee;}')
+
+stopAutoPaint(5)
+`);
+    }
+    add('width:20vh; height:20vh; background:black; top:20vw;')
+    add('width:20vh; height:80vh; background:yellow; top:20vw; left:87vw; opacity:1;')
+    add('width:30vh; height:80vh; background:yellow; top:14vw; left:37vw; opacity:1;')
+    add('width:20vh; height:20vh; background:black; top:20vw; left:40vw; opacity:.4;')
+    
+    autoPaint(3, .5)
+    setInterval(() => {
+      stopAutoPaint()      
+    }, 20000);
+    </script>
+  </html>

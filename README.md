@@ -9,6 +9,7 @@ Behind the Screens Season 3 will continue [**here**](https://github.com/creative
 
 ## 👋 The Community
 
+- Raphaël Bastide: [*@raphaelbastide*](https://raphaelbastide.com/)
 - Lucy Cheesman : [*@Heavy Lifting*](https://heavy-lifting.org/)
 - Jia Liu : [*@luiiuuuiiiii*](https://twitter.com/luiiuuuiiiii)
 - Francesco Corvi : [@nesso](https://www.instagram.com/nesso.xyz/)
